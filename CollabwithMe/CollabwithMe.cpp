@@ -4,7 +4,7 @@ using namespace std;
 
 void display()
 {
-	cout << "Hello Friends... " << endl;
+	cout << "Hello my friend good morning....................................................... " << endl;
 }
 int main()
 {
