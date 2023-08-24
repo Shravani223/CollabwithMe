@@ -5,6 +5,7 @@ using namespace std;
 void display()
 {
 	cout << "Hello my friend good morning....................................................... " << endl;
+	cout << "Hello All Good Night" << endl;
 }
 int main()
 {
